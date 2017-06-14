@@ -1,0 +1,17 @@
+{
+  "name": "CryptoAlert",
+  "version": "0.1.0",
+  "description": "A email/text alert system for crypto price points built on top of CoinBase API.",
+  "author": "Jack Beoris <jackbeoris@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbeoris/CryptoAlert"
+  },
+  "main": "bin/www",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "coinbase": "^2.0.6",
+    "twilio": "^3.3.0"
+  },
+  "devDependencies": {}
+}
